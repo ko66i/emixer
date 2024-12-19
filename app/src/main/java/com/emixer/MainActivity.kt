@@ -1,5 +1,3 @@
-git add README.mdpackage com.emixer
-
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
